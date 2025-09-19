@@ -1,0 +1,13 @@
+# Excel CSV 处理器依赖包
+# 用于Excel文件转换和CSV列合并处理
+
+# 数据处理和分析
+pandas>=1.3.0
+
+# Excel文件读取和处理
+openpyxl>=3.0.0
+
+# 标准库依赖（无需安装）
+# pathlib - 路径操作
+# csv - CSV文件处理
+# os - 操作系统接口
